@@ -48,8 +48,8 @@
 #include "esp_http_server.h"
 
 /* ===================== WIFI CREDENTIALS ===================== */
-#define WIFI_SSID "Rogers Ignite 2"
-#define WIFI_PASS "82720117"
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "password"
 
 /* ===================== GPIO DEFINES ===================== */
 #define PIR_GPIO        GPIO_NUM_27
